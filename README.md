@@ -1,4 +1,4 @@
-FireWall project is the final project of Workshop in information security in cooperation with industry experts from Check Point.
+FireWall project is the final project of Workshop in information security at Tel-Aviv University in cooperation with industry experts from Check Point.
 
 Grade: 100
 
