@@ -2,6 +2,8 @@ FireWall project is the final project of Workshop in information security at Tel
 
 Grade: 100
 
+Lines of Code :~10,000
+
 The FireWall consists of a Linux Kernel module and an application layer that sum up to a physical device that protects the inner network from outer threats.
 
 During the project, self researched on last-year discovered [CVE-2018-10933](https://nvd.nist.gov/vuln/detail/CVE-2018-10933) and developed protection against it by the implementation of SHH man-in-the-middle on the FireWall which is able to validate connection integrity. 
