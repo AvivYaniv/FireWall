@@ -18,3 +18,7 @@ Features:
 * Enabling [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) data connection, in which, the client acts as a server and opens ports, therefore, using dynamic rules and removing them once the connection is closed
 * Protection against last-year [SSH LibAuth bypass AKA CVE-2018-10933](https://nvd.nist.gov/vuln/detail/CVE-2018-10933)
 * Configurable and generic Data Leakage Module for different languages (C, C++, C#, Java, Python) while allowing innocent data or document sharing to pass.
+
+<p align="center">
+    <img src="https://github.com/AvivYaniv/FireWall/blob/master/logo/Firewall.png" width="30%"/>
+<p/>
