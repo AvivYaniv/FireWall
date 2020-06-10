@@ -1,3 +1,5 @@
+[![Hits-of-Code](https://hitsofcode.com/github/AvivYaniv/FireWall)](https://hitsofcode.com/github/AvivYaniv/FireWall)
+
 FireWall project is the final project of Workshop in information security at Tel-Aviv University in cooperation with industry experts from Check Point.
 
 Grade: 100
