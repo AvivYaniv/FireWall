@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/AvivYaniv/FireWall.svg)](http://hits.dwyl.com/AvivYaniv/FireWall)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.FireWall.issue.1) <br/>
+[![HitCount](http://hits.dwyl.com/AvivYaniv/FireWall.svg)](http://hits.dwyl.com/AvivYaniv/FireWall) <br/>
 
 FireWall project is the final project of Workshop in information security at Tel-Aviv University in cooperation with industry experts from Check Point.
 
